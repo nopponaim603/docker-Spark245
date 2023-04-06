@@ -23,7 +23,7 @@ Apache Spark with Apache Hadoop support is used to allow the cluster to simulate
 Ensure that the Docker environment has enough memory allocated:
 - Configure a minimum of 4GB in Docker Resources, ideally 8GB   
 
-
+(Using GIT Bash)
 Build the images with
  ```
  build.sh
